@@ -1,0 +1,15 @@
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.csproj.AssemblyReference.cache
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.AssemblyInfoInputs.cache
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.AssemblyInfo.cs
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.csproj.CoreCompileInputs.cache
+D:\ReposC#\prac5oopPPP\prac5oopPPP\bin\Debug\net6.0\prac5oopPPP.exe
+D:\ReposC#\prac5oopPPP\prac5oopPPP\bin\Debug\net6.0\prac5oopPPP.deps.json
+D:\ReposC#\prac5oopPPP\prac5oopPPP\bin\Debug\net6.0\prac5oopPPP.runtimeconfig.json
+D:\ReposC#\prac5oopPPP\prac5oopPPP\bin\Debug\net6.0\prac5oopPPP.dll
+D:\ReposC#\prac5oopPPP\prac5oopPPP\bin\Debug\net6.0\prac5oopPPP.pdb
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.dll
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\refint\prac5oopPPP.dll
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.pdb
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\prac5oopPPP.genruntimeconfig.cache
+D:\ReposC#\prac5oopPPP\prac5oopPPP\obj\Debug\net6.0\ref\prac5oopPPP.dll
